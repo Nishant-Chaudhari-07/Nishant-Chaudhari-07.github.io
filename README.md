@@ -1,4 +1,4 @@
-# Nishant Chaudhari — Portfolio
+# Nishant Chaudhari - Portfolio
 
 ### 🌐 [nishantchaudhari.com](http://nishantchaudhari.com/)
 
@@ -11,12 +11,12 @@
 A personal portfolio website built to showcase my work as a Business Analyst and aspiring Consultant. Designed with a case-study-first approach — each project is framed around a real problem, analytical approach, and measurable outcome.
 
 **Sections:**
-- **About** — Who I am and what I bring to the table
-- **My Approach** — How I work through any business problem
-- **Case Studies** — 5 analytics & consulting projects with GitHub links
-- **Experience** — 3 years at Cognizant serving Fortune 500 clients
-- **Skills** — Analytics, BI, ML, and Business capabilities
-- **Education** — MS Business Analytics (UMass) · B.Tech (MIT-WPU)
+- **About** - Who I am and what I bring to the table
+- **My Approach** - How I work through any business problem
+- **Case Studies** - 5 analytics & consulting projects with GitHub links
+- **Experience** - 3 years at Cognizant serving Fortune 500 clients
+- **Skills** - Analytics, BI, ML, and Business capabilities
+- **Education** - MS Business Analytics (UMass) · B.Tech (MIT-WPU)
 
 ---
 
