@@ -12,11 +12,10 @@ A personal portfolio website built to showcase my work as a Business Analyst and
 
 **Sections:**
 - **About** - Who I am and what I bring to the table
-- **My Approach** - How I work through any business problem
 - **Case Studies** - 5 analytics & consulting projects with GitHub links
-- **Experience** - 3 years at Cognizant serving Fortune 500 clients
+- **Experience** - 3 years at Cognizant serving Fortune 500 client
 - **Skills** - Analytics, BI, ML, and Business capabilities
-- **Education** - MS Business Analytics (UMass) · B.Tech (MIT-WPU)
+- **Education** - MS Business Analytics (UMass Amherst, USA) · B.Tech (MIT-WPU Pune, India)
 
 ---
 
