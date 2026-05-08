@@ -1,6 +1,6 @@
 # Nishant Chaudhari — Portfolio
 
-### 🌐 [nishantchaudhari-07.github.io](https://nishant-chaudhari-07.github.io/)
+### 🌐 [nishantchaudhari.com](http://nishantchaudhari.com/)
 
 > Business Analyst & Consultant · MS Business Analytics @ UMass Amherst · Open to roles from May 2026
 
